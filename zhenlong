@@ -1,0 +1,10 @@
+# 真龙
+39.98.47.203 dev.zl.sunyur.com
+39.98.47.203 dev.static.sunyur.com
+# 真龙sytest环境
+47.92.64.233 sytest.dubbo.sunyur.com
+47.92.64.233 sytest.es.sunyur.com
+47.92.64.233 sytest.zl.sunyur.com
+47.92.64.233 sytest.gwm.sunyur.com
+47.92.64.233 sytest.static.sunyur.com
+47.92.64.233 sytest.back.sunyur.com
