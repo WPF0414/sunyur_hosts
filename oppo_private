@@ -1,0 +1,5 @@
+# OPPO 私有化
+172.16.46.237 t-purma.myoas.com
+172.16.46.237 t-static.myoas.com
+172.16.46.237 img.myoas.com
+172.16.46.237 t-minio.myoas.com
