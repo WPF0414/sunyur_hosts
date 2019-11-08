@@ -1,4 +1,9 @@
 # 长城
-47.92.64.233 sytest.gwm.sunyur.com
-39.98.50.85 test.static.sunyur.com
-39.98.50.85 test.gwm.sunyur.com
+# uat环境
+39.98.50.85 uat.static.sunyur.com
+39.98.50.85 gwm.uat.sunyur.com
+# test环境
+47.92.135.52 test.static.sunyur.com   
+47.92.135.52 test.back.sunyur.com   
+47.92.135.52 gwm.test.sunyur.com
+47.92.135.52 zl.test.sunyur.com
