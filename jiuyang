@@ -1,3 +1,5 @@
 #九阳test  
 47.92.135.52 joyoung.test.sunyur.com
 47.92.135.52 static.test.sunyur.com
+# uat环境
+47.92.44.199 joyoung.uat.sunyur.com
