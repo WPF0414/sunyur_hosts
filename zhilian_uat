@@ -1,0 +1,17 @@
+# zhilian_uat
+#智联  feng1.li/111111  ap: feng1.li/Ap2018
+47.92.44.199   zpmall-uat.zhaopin.com
+111.206.6.210  zpsso-uat.zhaopin.com
+
+192.168.2.120 ap-dev.zhaopin.com
+192.168.2.120 apadmin-dev.zhaopin.com
+192.168.2.120 apauth-dev.zhaopin.com
+192.168.2.120 apapi-dev.zhaopin.com
+192.168.2.120 apsync-dev.zhaopin.com
+192.168.2.120 apreport-dev.zhaopin.com
+192.168.2.120 apbuildin-dev.zhaopin.com
+192.168.2.120 apdd-dev.zhaopin.com
+192.168.2.120 appo-dev.zhaopin.com
+47.92.64.233  sytest.static.sunyur.com
+47.92.44.199  static.uat.sunyur.com
+47.92.44.199  static.sunyur.com
