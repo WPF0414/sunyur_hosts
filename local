@@ -8,3 +8,5 @@
 #47.92.64.233 sytest.static.sunyur.com
 #47.92.135.52 static.test.sunyur.com
 ::1	localhost wangpengfei-MacBook-Pro.local
+127.0.0.1 localhost
+127.0.0.1 wangpengfei-MacBook-Pro.local
