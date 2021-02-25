@@ -1,12 +1,4 @@
 #本地测试
-#127.0.0.1 gwm.test.sunyur.com
-#127.0.0.1 test.ke.sunyur.com
-#127.0.0.1 gwm.uat.sunyur.com
-#39.98.50.85 test.static.sunyur.com
-#127.0.0.1 sytest.oppo.sunyur.com
-#127.0.0.1 sytest.zl.sunyur.com
-#47.92.64.233 sytest.static.sunyur.com
-#47.92.135.52 static.test.sunyur.com
 ::1	localhost wangpengfei-MacBook-Pro.local
 127.0.0.1 localhost
 127.0.0.1 wangpengfei-MacBook-Pro.local
