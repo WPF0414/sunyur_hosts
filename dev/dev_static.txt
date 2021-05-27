@@ -1,0 +1,2 @@
+# dev静态资源
+39.98.47.203 dev.static.sunyur.com

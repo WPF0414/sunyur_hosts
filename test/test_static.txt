@@ -1,0 +1,3 @@
+# test静态资源
+47.92.135.52 test.static.sunyur.com
+47.92.135.52 static.test.sunyur.com

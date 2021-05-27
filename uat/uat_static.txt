@@ -1,0 +1,2 @@
+# uat静态资源
+47.92.44.199 static.uat.sunyur.com

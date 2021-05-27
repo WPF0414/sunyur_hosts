@@ -1,0 +1,2 @@
+# online静态资源
+47.101.78.58  static.sunyur.com
