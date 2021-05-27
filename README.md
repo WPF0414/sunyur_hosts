@@ -1,2 +1,2 @@
 # sunyur_hosts
-商越办公常用hosts配置
+商越办公常用host配置
